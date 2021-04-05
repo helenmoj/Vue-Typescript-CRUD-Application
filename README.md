@@ -1,7 +1,8 @@
 # Vue-Typescript-CRUD-Application
 Vue TS CRUD Application (Vue Router - Axios)
 
-
+NOTE, need to tidy up readme
+I
 Vue Typescript example: Build a CRUD Application
 
 A Vue.js Typescript CRUD Application to consume REST APIs, display and modify data using Vue, Vue Router, Axios & Bootstrap.
