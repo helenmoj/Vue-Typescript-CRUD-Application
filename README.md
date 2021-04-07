@@ -1,14 +1,16 @@
 # Vue-Typescript-CRUD-Application
-Vue TS CRUD Application (Vue Router - Axios)
 
-NOTE, need to tidy up readme
-I
-Vue Typescript example: Build a CRUD Application
+CONTENTS OF THIS FILE
+---------------------
 
+ * Introduction
+I followed the following tutorial:
+
+https://bezkoder.com/vue-js-node-js-express-mysql-crud-example/
 A Vue.js Typescript CRUD Application to consume REST APIs, display and modify data using Vue, Vue Router, Axios & Bootstrap.
 
 
-A Vue.js front-end Tutorial Application in that:
+ * Requirements
 
 Each Tutorial has id, title, description, published status.
 We can create, retrieve, update, delete Tutorials.
@@ -33,13 +35,23 @@ The App component is a container with router-view. It has navbar that links to r
 – These Components call TutorialDataService methods which use axios to make HTTP requests and receive responses. 
 
 
-Technology
+ * Installation
+
+We’ve set our app running at port 8081.
+
+Run Vue Typescript App
+You can run our App with command: npm run serve.
+If the process is successful, open Browser with Url: http://localhost:8081/ and check it.
+
+
+
+ * Technology
+
 vue: 2.6.11
 vue-router: 3.1.6
 axios: 0.19.2
 vue-class-component 7.2.3
 vue-property-decorator 8.4.1
-
 
 – package.json contains main modules: vue, vue-router, vue-class-component, axios.
 – There are 3 components: TutorialsList, Tutorial, AddTutorial.
@@ -50,8 +62,6 @@ vue-property-decorator 8.4.1
 
 
 
-We’ve set our app running at port 8081.
 
-Run Vue Typescript App
-You can run our App with command: npm run serve.
-If the process is successful, open Browser with Url: http://localhost:8081/ and check it.
+
+
