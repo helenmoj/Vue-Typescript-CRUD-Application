@@ -1,7 +1,5 @@
 # Vue-Typescript-CRUD-Application
 
-CONTENTS OF THIS FILE
----------------------
 
  * Introduction
 I followed the following tutorial:
